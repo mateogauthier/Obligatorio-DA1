@@ -20,8 +20,8 @@ El objetivo de este trabajo fue aplicar los conceptos vistos en el curso, incluy
 
 ## Autores
 
-Mateo Gauthier
-Valentina Cabrera
+- Mateo Gauthier
+- Valentina Cabrera
 
 ---
 
